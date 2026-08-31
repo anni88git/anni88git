@@ -12,12 +12,12 @@
 
 ---
 
-### About Me 🚀
+### About Me 
 Welcome to my GitHub profile! I build full-stack web applications, AI-driven tools, and custom modern software pipelines.
 
 ---
 
-### Tech Stack & Tools ⚙️
+### Tech Stack & Tools 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I build full-stack web applications, AI-driven too
 
 ---
 
-### GitHub Stats 📊
+### GitHub Stats 
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anni88git&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
