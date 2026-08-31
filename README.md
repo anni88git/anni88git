@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there,%20I'm%20Anirudh!&fontSize=40&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I build full-stack web applications, AI-driven too
 
 ---
 
-### Contribution Snake Animation 🐍
-
+<!-- SNAKE ANIMATION (HEADING REMOVED) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anni88git/anni88git/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anni88git/anni88git/output/github-contribution-grid-snake.svg">
@@ -39,7 +38,7 @@ Welcome to my GitHub profile! I build full-stack web applications, AI-driven too
 
 ### GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anni88git&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anni88git&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anni88git&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anni88git&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
