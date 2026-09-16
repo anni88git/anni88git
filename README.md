@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20there,%20I'm%20Anirudh!&fontSize=42&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=250&section=header&text=Hi%20there,%20I'm%20Anirudh!&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Software%20Quality%20Analyst&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Crafting+AI-driven+tools;Shipping+modern+software+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Crafting+AI-driven+tools;Testing+%26+shipping+quality+software" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -27,10 +27,10 @@
 
 ### 👋 About Me
 
-I build **full-stack web applications**, **AI-driven tools**, and **custom modern software pipelines**.  
-Always exploring new tech, shipping side projects, and refining my craft one commit at a time.
+I build **full-stack web applications**, **AI-driven tools**, and **custom modern software pipelines** — and I care just as much about breaking things as building them, working as a **Software Quality Analyst** to make sure what ships actually works.
 
 - 🔭 Currently building full-stack & AI-powered projects
+- 🧪 Also focused on QA: testing, automation, and catching bugs before users do
 - 🌱 Always leveling up in new frameworks & tools
 - ⚡ Fun fact: I'd rather debug at 2 AM than leave a bug unsolved
 
