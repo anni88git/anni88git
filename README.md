@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Crafting+AI-driven+tools;Testing+%26+shipping+quality+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Crafting+AI-driven+tools;Testing+%26+shipping+quality+software+solution+engineering" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL BADGES -->
