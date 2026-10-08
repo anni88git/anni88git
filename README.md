@@ -27,7 +27,7 @@
 
 ### 👋 About Me
 
-I build **full-stack web applications**, **AI-driven tools**, and **custom modern software pipelines** — and I care just as much about breaking things as building them, working as a **Software Quality Analyst** to make sure what ships actually works.
+I build **full-stack web applications**, **AI-driven tools**,**solution engineering**and **custom modern software pipelines** — and I care just as much about breaking things as building them, working as a **Software Quality Analyst** to make sure what ships actually works.
 
 - 🔭 Currently building full-stack & AI-powered projects
 - 🧪 Also focused on QA: testing, automation, and catching bugs before users do
